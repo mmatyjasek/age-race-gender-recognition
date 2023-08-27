@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+new_data/
+race_trial1/
+trials_age3/
+trials_age7/
+trials_age8/
+trials_gender1/
+trials_race1/
+
+/*.h5
+/*.xlsx
